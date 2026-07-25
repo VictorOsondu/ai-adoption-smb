@@ -7,7 +7,9 @@
 
 A practical playbook for adopting AI in a business of roughly 10 to 200 people — without the hype, and without the risk of someone pasting a client contract into a free chatbot. It's built for owners and managers who want the time savings *and* a defensible answer when a client or insurer asks how you use AI.
 
-The honest version: most SMB AI adoption stalls not because of a skill gap, but because the owner and the team are at different stages and nobody's set the ground rules. This playbook fixes both.
+The honest version: skill gaps aren't usually what stalls SMB AI adoption. More often the owner and the team are at different stages and nobody has set the ground rules. This playbook helps with both.
+
+Last reviewed: 2026-07-24. See [sources and verification notes](sources.md).
 
 ## Contents
 
@@ -15,7 +17,10 @@ The honest version: most SMB AI adoption stalls not because of a skill gap, but 
 - [The six stages, for an SMB](#the-six-stages-for-an-smb)
 - [Start here](#start-here)
 - [The safe-use line](#the-safe-use-line)
+- [Templates](#templates)
+- [Related resources](#related-resources)
 - [Where this came from](#where-this-came-from)
+- [Scope](#scope)
 - [Free vs done-with-you](#free-vs-done-with-you)
 - [Part of a series](#part-of-a-series)
 
@@ -37,21 +42,46 @@ In a small business the stages usually apply twice — to the **owner** and to t
 
 1. **Measure where you stand.** Run the free [readiness assessment](https://github.com/VictorOsondu/ai-adoption-toolkit/blob/main/assessment/readiness-assessment.md) — twelve statements, five minutes. It tells you which of direction, guardrails, capability, or follow-through to fix first.
 2. **Set the rules.** Adopt the one-page [AI Ground Rules starter](templates/ai-ground-rules-starter.md) so your team knows what's allowed before use spreads.
-3. **Pick one ICE win.** Choose a single **Improve** task that eats your week — proposals, minutes, job ads — and make AI reliable at it before adding more.
+3. **Pick one ICE win.** Choose a single low-risk **Improve** task that eats your week — meeting notes, internal summaries, public research, SOP drafts — and make AI reliable at it before adding more.
 
 ## The safe-use line
 
-Small businesses carry the same data risks as large ones, with fewer people to catch mistakes. Client contracts, personal data, financial records, anything confidential — none of it goes into a public AI tool. That's not a brake on adoption; it's what makes your adoption defensible to a client, an insurer, or a regulator.
+Small businesses often handle the same kinds of sensitive data as larger organisations, with less spare capacity for procurement, legal review, monitoring, and incident response. Client contracts, personal data, financial records, employee records, credentials, customer data, proprietary code, health or safeguarding information, and anything confidential must not go into a public AI tool. Approved work tools still need clear settings, owners, data limits, and review.
+
+## Templates
+
+- [AI Ground Rules starter](templates/ai-ground-rules-starter.md)
+- [SMB AI tool register](templates/smb-ai-tool-register.md)
+- [SMB AI tool checklist](templates/smb-ai-tool-checklist.md)
+- [Customer-facing AI review](templates/customer-facing-ai-review.md)
+- [SMB AI incident log](templates/smb-ai-incident-log.md)
+- [Two-week AI rollout](templates/two-week-ai-rollout.md)
+- [SMB worked example](templates/smb-worked-example.md)
+
+## Related resources
+
+- [AI Pilot Brief](https://github.com/VictorOsondu/ai-adoption-toolkit/blob/main/templates/ai-pilot-brief.md) — define the baseline, guardrails, success measures, and stop conditions for a small test.
+- [AI Onboarding Checklist](https://github.com/VictorOsondu/ai-adoption-toolkit/blob/main/templates/ai-onboarding-checklist.md) — give new joiners the same tool, data, review, and support rules.
+- [Approved AI Use-Case Library](https://github.com/VictorOsondu/ai-adoption-toolkit/blob/main/templates/approved-use-case-library.md) — keep tested workflows, limits, evidence, and owners in one place.
+- [AI Community of Practice Starter](https://github.com/VictorOsondu/ai-adoption-toolkit/blob/main/scaling/community-of-practice-starter.md) — useful when the business has enough teams or champions to need a shared learning rhythm.
+- [AI-Era Data & Privacy Playbook](https://github.com/VictorOsondu/ai-data-privacy-playbook)
+- [AI Governance Kit](https://github.com/VictorOsondu/ai-governance-kit)
+- [AI Incident & Failure Library](https://github.com/VictorOsondu/ai-incident-library)
+- [AI Adoption for Professionals](https://github.com/VictorOsondu/ai-adoption-professional)
 
 ## Where this came from
 
 The methodology here is drawn from building a full AI literacy and safe-use programme for small businesses — the same work behind the [AI Literacy Compliance Pack](https://aitutorium.com). The free playbook is the map and the starting rules; the deep, evidence-generating version is the paid pack. (Provenance guard: `practitioner-built`; a `field-tested` badge is reserved for a named, completed client rollout.)
 
+## Scope
+
+This is practical SMB adoption guidance, not legal, insurance, data-protection, employment, security, or regulatory advice. Use it as a starting point, then align it with your sector, client contracts, insurer expectations, tool terms, data classes, and applicable law.
+
 ## Free vs done-with-you
 
 The playbook, the framework, and the one-page ground rules are free to use and adapt under CC BY 4.0. Adopt them yourself.
 
-When you need to *prove* it — a full AI use policy with data classification, a staff assessment, certification, and an audit trail that satisfies EU AI Act Article 4 — that's the paid **[AI Literacy Compliance Pack](https://aitutorium.com)**, with done-with-you rollout available. Free playbook to start; paid pack when you need evidence, not just intent.
+When you need stronger evidence — a full AI use policy with data classification, staff assessment, training records, and an audit trail that supports AI literacy obligations such as EU AI Act Article 4 — that's the paid **[AI Literacy Compliance Pack](https://aitutorium.com)**, with done-with-you rollout available. Free playbook to start; paid pack when you need documented evidence, not just intent.
 
 ## Part of a series
 
